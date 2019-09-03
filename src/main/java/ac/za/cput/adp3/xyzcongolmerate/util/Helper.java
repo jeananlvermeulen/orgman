@@ -14,6 +14,7 @@ public class Helper {
 
     public static String getSuffixFromClassName(Class<?> aClass) {
         String className = getClassName(aClass);
+
         throw new UnsupportedOperationException("Not yet supported!");
         /**
          * Your implementation goes here
